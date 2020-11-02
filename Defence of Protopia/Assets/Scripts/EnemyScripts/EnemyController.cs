@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Vaqif Quluzada
 public class EnemyController : MonoBehaviour
 {
     [Header("The storage that containt enemy data")]
@@ -55,6 +56,8 @@ public class EnemyController : MonoBehaviour
 
     }
 
+
+    //Reference taken from https://www.raywenderlich.com/269-how-to-create-a-tower-defense-game-in-unity-part-1#toc-anchor-021
     private void UpdatePosition()
     {
         //We calculate the currentTime until currentTimeOnPath is equal to _timeForPath
@@ -110,6 +113,7 @@ public class EnemyController : MonoBehaviour
         //transform.rotation = Quaternion.RotateTowards(transform.rotation, enemyPath[_currentWayPointIndex + 1].rotation,1);
         _currentHealthAmount = enemyData.enemyHealth;
     }
+
 
     private void DecreaseEnemyHealth(float DamageAmount)
     {

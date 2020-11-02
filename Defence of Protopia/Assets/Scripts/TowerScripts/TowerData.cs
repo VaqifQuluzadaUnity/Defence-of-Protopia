@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Vaqif Quluzada
 /// <summary>
 /// This class is used for holding data about different towers.
 /// </summary>

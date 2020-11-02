@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Vaqif Quluzada
 public class GameManager : MonoBehaviour
 {
     #region Public Variables

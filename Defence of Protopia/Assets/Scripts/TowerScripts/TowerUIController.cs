@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
+//Vaqif Quluzada
 public class TowerUIController : MonoBehaviour
 {
     #region Public Variables

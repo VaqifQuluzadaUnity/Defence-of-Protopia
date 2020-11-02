@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Faqan Aliyev
 public class UIController : MonoBehaviour
 {
     public Image _Healthbar;

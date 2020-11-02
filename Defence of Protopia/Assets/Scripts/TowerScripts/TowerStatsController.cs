@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Vaqif Quluzada
 public class TowerStatsController : MonoBehaviour
 {
     #region Serialized Private Variables

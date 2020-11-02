@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Faqan Aliyev
 [CreateAssetMenu(menuName ="ScriptableData/EnemyData")]
 public class EnemyData : ScriptableObject
 {

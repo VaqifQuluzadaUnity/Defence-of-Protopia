@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Faqan Aliyev
 public class BulletController : MonoBehaviour
 {
     public float Damage;
